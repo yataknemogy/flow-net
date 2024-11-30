@@ -16,7 +16,7 @@ Flow-Net is a backend project built with NestJS, providing modular and scalable 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/yataknemogy/flow-net.git
    cd flow-net
    ```
 2. Install dependencies:
